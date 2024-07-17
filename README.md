@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wandrewtischlerx/siteping/main/siteping.PNG" alt="Print SitePing">
+<img src="https://raw.githubusercontent.com/wandrewtischlerx/siteping/main/image/siteping.PNG" alt="Print SitePing">
 
 <h1>SitePing</h1>
 
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 
-<h2>Uso</h2>
+<h2>Uso:</h2>
 
 1. Adicione os URLs dos sites que deseja verificar no arquivo `sites.txt`.
 2. Execute o script:
@@ -29,11 +29,6 @@ pip install -r requirements.txt
 ```
 python siteping.py
 ```
-
-3. O script irá verificar cada site listado e gerar um relatório com os seguintes detalhes:
-   - Sites online (status 200)
-   - Sites com erro de servidor (status 500)
-   - Outros status HTTP
 
 <h2>Contribuições:</h2>
 
