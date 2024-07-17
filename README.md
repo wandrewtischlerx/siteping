@@ -46,3 +46,5 @@ Este projeto está licenciado sob a MIT License (https://opensource.org/licenses
 ---
 
 Utilize o SitePing para monitorar e assegurar a disponibilidade dos seus sites de forma simples e eficaz!
+
+Desenvolvido por Wandrew Tischler
